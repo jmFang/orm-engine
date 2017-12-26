@@ -6,7 +6,7 @@
 2. orm find
 3. orm update
 
-run result is in diretory `images`
+Attach: The pictures of running results are in diretory `images`
 
 ### userinfo
 
